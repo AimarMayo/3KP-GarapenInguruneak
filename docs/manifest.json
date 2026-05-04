@@ -1,0 +1,97 @@
+{
+  "source_base_path": "C:/Users/aimar/Desktop/3POO_5Porra",
+  "xrefmap": "xrefmap.yml",
+  "files": [
+    {
+      "type": "Resource",
+      "output": {
+        "resource": {
+          "relative_path": "index.json"
+        }
+      }
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/_3POO_5.Porra.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/_3POO_5.Porra.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "_3POO_5.Porra",
+      "Summary": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/_3POO_5.Program.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/_3POO_5.Program.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "_3POO_5.Program",
+      "Summary": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/_3POO_5.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/_3POO_5.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "_3POO_5",
+      "Summary": null
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "api/toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/toc.html"
+        },
+        ".json": {
+          "relative_path": "api/toc.json"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "index.md",
+      "output": {
+        ".html": {
+          "relative_path": "index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "toc.html"
+        },
+        ".json": {
+          "relative_path": "toc.json"
+        }
+      },
+      "version": ""
+    }
+  ],
+  "groups": [
+    {
+      "xrefmap": "xrefmap.yml"
+    }
+  ]
+}

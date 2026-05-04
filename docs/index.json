@@ -1,0 +1,22 @@
+{
+  "api/_3POO_5.Porra.html": {
+    "href": "api/_3POO_5.Porra.html",
+    "title": "Class Porra | Documentación 3POO_5",
+    "summary": "Class Porra Namespace _3POO_5 Assembly 3POO_5.dll public class Porra Inheritance object Porra Inherited Members object.Equals(object) object.Equals(object, object) object.GetHashCode() object.GetType() object.MemberwiseClone() object.ReferenceEquals(object, object) Constructors Porra(string, string, string, string, int) Initializes a new instance of the Porra class. public Porra(string i, string ir, string fi, string go, int p) Parameters i string The i. ir string The ir. fi string The fi. go string The go. p int The p. Properties Finalista Gets or sets the finalista. public string Finalista { get; set; } Property Value string The finalista. Goleatzailea Gets or sets the goleatzailea. public string Goleatzailea { get; set; } Property Value string The goleatzailea. Irabazlea Gets or sets the irabazlea. public string Irabazlea { get; set; } Property Value string The irabazlea. Izena Gets or sets the izena. public string Izena { get; set; } Property Value string The izena. Puntuak Gets or sets the puntuak. public int Puntuak { get; set; } Property Value int The puntuak. Methods AsmatuBiFinalistak() Asmatus the bi finalistak. public int AsmatuBiFinalistak() Returns int AsmatuIrabazlea() Asmatus the irabazlea. public int AsmatuIrabazlea() Returns int Goleko() Golekoes this instance. public int Goleko() Returns int Pantailaratu() Pantailaratus this instance. public string Pantailaratu() Returns string ToString() Converts to string. public override string ToString() Returns string A string that represents this instance."
+  },
+  "api/_3POO_5.Program.html": {
+    "href": "api/_3POO_5.Program.html",
+    "title": "Class Program | Documentación 3POO_5",
+    "summary": "Class Program Namespace _3POO_5 Assembly 3POO_5.dll public class Program Inheritance object Program Inherited Members object.Equals(object) object.Equals(object, object) object.GetHashCode() object.GetType() object.MemberwiseClone() object.ReferenceEquals(object, object) object.ToString()"
+  },
+  "api/_3POO_5.html": {
+    "href": "api/_3POO_5.html",
+    "title": "Namespace _3POO_5 | Documentación 3POO_5",
+    "summary": "Namespace _3POO_5 Classes Porra Program"
+  },
+  "index.html": {
+    "href": "index.html",
+    "title": "This is the HOMEPAGE. | Documentación 3POO_5",
+    "summary": "This is the HOMEPAGE. Refer to Markdown for how to write markdown files. Quick Start Notes: Add images to the images folder if the file is referencing an image."
+  }
+}

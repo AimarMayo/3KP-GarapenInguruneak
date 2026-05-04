@@ -1,0 +1,50 @@
+{
+  "$schema": "https://raw.githubusercontent.com/dotnet/docfx/main/schemas/docfx.schema.json",
+  "metadata": [
+    {
+      "src": [
+        {
+          "src": ".",
+          "files": [
+            "3POO_5.csproj"
+          ]
+        }
+      ],
+      "dest": "api"
+    }
+  ],
+  "build": {
+    "content": [
+      {
+        "files": [
+          "api/**.yml",
+          "api/index.md",
+          "**.md",
+          "toc.yml"
+        ],
+        "exclude": [
+          "obj/**",
+          "_site/**",
+          "docs/**"
+        ]
+      }
+    ],
+    "resource": [
+      {
+        "files": [
+          "images/**"
+        ]
+      }
+    ],
+    "output": "_site",
+    "template": [
+      "default",
+      "modern"
+    ],
+    "globalMetadata": {
+      "_appName": "3POO_5 Porra",
+      "_appTitle": "Documentación 3POO_5",
+      "_enableSearch": true
+    }
+  }
+}
